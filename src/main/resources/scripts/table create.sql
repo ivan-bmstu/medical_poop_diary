@@ -12,5 +12,5 @@ CREATE TABLE IF NOT EXISTS poop_record (
   mucus integer NOT NULL,
   stool integer NOT NULL,
   date timestamp NOT NULL,
-  user_id integer NOT NULL
+  user_privacy_id integer NOT NULL
 );

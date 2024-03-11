@@ -9,13 +9,14 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.ivanshirokov</groupId>
-	<artifactId>test-tgbot-api</artifactId>
+	<artifactId>poop-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>test-tgbot-api</name>
-	<description>test-tgbot-api</description>
+	<name>tg-bot</name>
+	<description>tg bot for recording poop by patients with inflammation of the gastrointestinal tract</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>
+
 	<dependencies>
 
 		<dependency>
