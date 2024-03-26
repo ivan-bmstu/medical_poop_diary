@@ -2,7 +2,7 @@ package ru.ivanshirokov.poopapp.unit;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import ru.ivanshirokov.poopapp.models.PoopRecord;
+import ru.ivanshirokov.poopapp.model.PoopRecord;
 import ru.ivanshirokov.poopapp.util.tgon.PoopRecordTgonMapper;
 
 import java.time.LocalDateTime;

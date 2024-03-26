@@ -1,7 +1,7 @@
 package ru.ivanshirokov.poopapp.util.cache;
 
 import org.springframework.stereotype.Component;
-import ru.ivanshirokov.poopapp.models.UserPrivacy;
+import ru.ivanshirokov.poopapp.model.UserPrivacy;
 
 import java.time.Instant;
 import java.util.HashMap;

@@ -10,9 +10,9 @@ import org.telegram.telegrambots.meta.api.methods.updatingmessages.DeleteMessage
 import org.telegram.telegrambots.meta.api.methods.updatingmessages.EditMessageText;
 import org.telegram.telegrambots.meta.api.objects.Update;
 import org.telegram.telegrambots.meta.exceptions.TelegramApiException;
-import ru.ivanshirokov.poopapp.controllers.callback.CallbackControllerDispatcher;
-import ru.ivanshirokov.poopapp.controllers.inmessage.InputMessageControllerDispatcher;
-import ru.ivanshirokov.poopapp.views.TelegramResponse;
+import ru.ivanshirokov.poopapp.controller.callback.CallbackControllerDispatcher;
+import ru.ivanshirokov.poopapp.controller.inmessage.InputMessageControllerDispatcher;
+import ru.ivanshirokov.poopapp.view.TelegramResponse;
 
 
 @Component("tgBot")

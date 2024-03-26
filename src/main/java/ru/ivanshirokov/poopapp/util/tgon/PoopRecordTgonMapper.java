@@ -1,6 +1,6 @@
 package ru.ivanshirokov.poopapp.util.tgon;
 
-import ru.ivanshirokov.poopapp.models.PoopRecord;
+import ru.ivanshirokov.poopapp.model.PoopRecord;
 import ru.ivanshirokov.poopapp.util.UtilDateTimeFormatter;
 
 import java.time.LocalDateTime;

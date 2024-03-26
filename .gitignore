@@ -21,6 +21,7 @@ target/
 
 ### logs ###
 *.log
+log/
 
 ### NetBeans ###
 /nbproject/private/
@@ -34,6 +35,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### private ###
-/srs/main/resources/application.properties
